@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989242480975",
+    "firebase_url": "https://qlcar-93608-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qlcar-93608",
+    "storage_bucket": "qlcar-93608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989242480975:android:12c7d69e41e9ca3b594d3a",
+        "android_client_info": {
+          "package_name": "com.example.qlcar21it640"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989242480975-d2c8n48rtrapn7uf4n4jekjvb58407ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CRPYs54BwOu7_H32NWyHEXci_TDjqJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989242480975-d2c8n48rtrapn7uf4n4jekjvb58407ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
